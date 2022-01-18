@@ -10,12 +10,12 @@ This project relies highly on the OpenCV/Python tutorial of freeCodeCamp.org on 
 
 The dataset is taken on kaggle: https://www.kaggle.com/apollo2506/facial-recognition-dataset.
 
-## Results and observations
+### Results and observations
 
 This project has reached a precision (which is based on a simple determination of the correctness of predictions) of 52.37%, which remains very low compared to benchmarks. Considering the little manual work needed to implement a simple computer vision system, I would say that this is an appealing material to have on data-science-related or artificial-intelligence-related Python classes.
 
 Although haar cascades proves to be a simple and effective method to detect faces (as well as other objects), this method hasn't shown great results in my experiment. I would suggest that future work which intends to improve the performance of the system should try to build a CNN (convolutional neural network) using PyTorch or Tensorflow, or any other DL framework.
 
-# Remarks
+### Remarks
 
 According to the restrictions on number and size of uploading files on Github, I haven't included the .xml file (haar cascade), the .yaml file (the trained model) and the pictures. If you are interested, I strongly encourage you to look up to the tutorial and feel free to retrain.
