@@ -1,4 +1,4 @@
-### Facial Recognition with OpenCV and python
+### Facial Recognition with OpenCV and Python
 
 This is the final project of the course Python Scientifique at Ecole Centrale de Marseille.
 
